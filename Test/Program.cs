@@ -12,6 +12,7 @@ namespace Test
             Console.WriteLine("development");
             Console.WriteLine("development1");
             Console.WriteLine("development2");
+            Console.WriteLine("development3");
         }
     }
 }
