@@ -9,6 +9,7 @@ namespace Test
             Console.WriteLine("Hello World!");
             Console.WriteLine("test-dev");
             Console.WriteLine("test-git");
+            Console.WriteLine("development");
         }
     }
 }
